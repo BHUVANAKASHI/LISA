@@ -19,7 +19,7 @@ The primary goals of this project are:
 
 ```bash
 git clone https://github.com/BHUVANAKASHI/LISA.git
-cd YOUR_REPO_NAME
+cd LISA
 ````
 
 ### 2. Install requirements
